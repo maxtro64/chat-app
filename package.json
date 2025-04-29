@@ -1,0 +1,14 @@
+{
+  "name": "realtime_chaapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev":"npm install --prefix backend && npm intsall --prefix frontend && npm run build --prefix frontend",
+    "start":"npm run start ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
